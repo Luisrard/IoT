@@ -1,0 +1,11 @@
+nombre,apellido1,apellido2,cargo,empresa,calle,numeroExt,numeroInt,colonia,municipio,estado,codigoPostal,telefono,correoElectronico,fechaNacimiento
+Rafael,Pamias,Romero,Director General,Grupo Bimbo,Av. de la Paz,123,,Centro,Guadalajara,Jalisco,44100,33 1234 5678,rafa@bimbo.com,1980-01-01
+Sara,Smith,Garcia,Gerente de Operaciones,Microsoft,Calle Falsa,456,,Colon,Monterrey,Nuevo Leon,64000,81 5678 1234,sara.smith@microsoft.com,1985-02-12
+Luis,Fernandez,Ruiz,Director de Marketing,Coca-Cola,Paseo de la Reforma,789,101,Centro,CDMX,Ciudad de Mexico,10000,55 1234 5678,luis.ruiz@coca-cola.com,1990-05-20
+Maria,Lopez,Hernandez,Jefe de Tecnología,PepsiCo,Avenida del Sol,321,,Industrial,Toluca,Estado de Mexico,52000,72 3456 7890,maria.lopez@pepsico.com,1978-11-15
+Juan,Cruz,Martinez,CFO,Apple,Calle Luna,654,202,Residencial,Chihuahua,Chihuahua,31000,61 2345 6789,juan.cruz@apple.com,1982-03-25
+Pedro,Diaz,Rodriguez,CEO,Amazon,Calle Estrella,987,,San Pedro,Monterrey,Nuevo Leon,64050,81 4321 9876,pedro.diaz@amazon.com,1975-07-18
+Ana,Martinez,Flores,Gerente de Ventas,Facebook,Calle del Río,112,,Vista Hermosa,Tijuana,Baja California,22000,66 9876 5432,ana.flores@facebook.com,1988-09-08
+Carlos,Santos,Morales,Analista de Datos,Google,Bulevar de los Olivos,223,,Las Brisas,Zapopan,Jalisco,45000,33 8765 4321,carlos.santos@google.com,1991-12-14
+Sofia,Gomez,Mendoza,Gerente de Recursos Humanos,Tesla,Calle Larga,334,303,San Juan,Puebla,Puebla,72000,22 7654 3210,sofia.gomez@tesla.com,1987-04-30
+Diego,Ortiz,Vega,Ingeniero de Software,Grupo Alvarez,Avenida Siempre Viva,445,,La Joya,Cancun,Quintana Roo,77500,98 5432 1098,diego.ortiz@grupoalvarez.com,1993-06-12

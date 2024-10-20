@@ -1,0 +1,32 @@
+Estimado/a {apellido1} {apellido2} {nombre},
+Adscrito/a al cargo de {cargo}
+Empresa: {empresa}
+
+PRESENTE
+
+Nos complace invitarle a la celebración del cumpleaños de nuestra querida secretaria de Recursos Humanos, Paty. La celebración tendrá lugar en nuestras oficinas y será una excelente oportunidad para convivir y celebrar en un ambiente ameno junto a sus compañeros de trabajo.
+
+Para asegurar que la organización sea lo más adecuada posible, le pedimos que confirme su asistencia y verifique que los siguientes datos registrados en nuestros sistemas sean correctos. En caso de que necesite hacer alguna corrección, le solicitamos que nos lo notifique a la brevedad.
+
+Información registrada:
+Calle: {calle}
+Número exterior: {numeroExt}
+Número interior: {numeroInt}
+Colonia: {colonia}
+Municipio: {municipio}
+Estado: {estado}
+Código postal: {codigoPostal}
+
+Adicionalmente, le solicitamos verificar o confirmar que los siguientes datos personales son correctos:
+
+Teléfono: {telefono}
+Correo electrónico: {correoElectronico}
+Fecha de nacimiento: {fechaNacimiento}
+
+Agradecemos su pronta respuesta para confirmar su asistencia y asegurar que toda la información esté actualizada.
+
+Sin más por el momento, esperamos contar con su presencia para celebrar a Paty.
+
+Saludos cordiales,
+
+Recursos Humanos
